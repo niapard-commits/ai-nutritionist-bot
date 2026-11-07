@@ -1,0 +1,11 @@
+# Бібліотеки для бота-нутріціолога і парсера.
+# Встановлення (у папці проєкту):  pip install -r requirements.txt
+# yt-dlp варто час від часу оновлювати (TikTok/Instagram змінюють сайти):  pip install -U yt-dlp
+
+aiogram>=3.4,<4          # Telegram-бот
+aiosqlite>=0.19          # база даних (асинхронно)
+google-genai>=1.0        # Gemini API
+python-dotenv>=1.0       # читання .env
+Pillow>=10.0             # фото та скріншоти
+yt-dlp>=2024.1.1         # скачування відео з TikTok/Reels/YouTube
+tzdata>=2024.1           # часові пояси на Windows (скидання добових лімітів ключів)

@@ -1,0 +1,8 @@
+.env
+keys_state.json
+*.db
+*.log
+.venv/
+__pycache__/
+tmp/
+archive/
