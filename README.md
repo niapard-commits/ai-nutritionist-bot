@@ -78,5 +78,4 @@ it is already in `.gitignore`.
 
 ---
 
-**Need an AI assistant bot for your business?** Contact me through my Upwork or
-Fiverr profile.
+**Need an AI assistant bot for your business?** Order or ask a question via [my Fiverr gig](https://www.fiverr.com/serhii_bots/build-a-custom-python-telegram-bot).
