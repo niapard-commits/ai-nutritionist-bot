@@ -11,6 +11,7 @@ fridge, plans meal prep with a shopping list, and checks TikTok recipes for
 mistakes. The interface is available in 4 languages.
 
 <p align="center"><img src="docs/demo.gif" width="300" alt="&quot;I have&quot;: dishes from what is in the fridge"></p>
+<p align="center"><a href="docs/demo.mp4"><b>▶ Watch the 60-second demo video</b></a></p>
 
 ![Targets, dishes from the fridge, Ask the Chef, saved folders](docs/screenshots.png)
 
